@@ -7,15 +7,15 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
+- Hi, my name is Shreshth Sarin. I am currently playing Witcher 3. Some of the games I enjoy are Destiny 2, For Honor, Brawlhalla.
+
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [ ] Game Design & Interactive Media
-    - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
-    - [ ] Art-related major (please specify)
-    - [ ] Undecided
-    - [ ] Other (please specify)
+    - Game Design & Interactive Media
 
 3. What are you hoping to get out of this class?
+- Get some idea of how coding is in the field of Game Design.
+
 4. What, if anything, are you nervous about for this class?
 
 ## Prior Experience
@@ -24,11 +24,11 @@ The next questions ask about what (if any) prior experience you have. This class
 
 ### Development
 
-1. Programming (any languages/ frameworks)
+1. Programming (any languages/ frameworks) - C++, python
 
-2. Game development (any engine)
+2. Game development (any engine) - N/A
 
-3. Unity
+3. Unity - N/A
 
 ### Programming & Game Development Concepts
 
@@ -39,15 +39,15 @@ For the next questions, a programming or game development concept is presented:
 
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
-1. Game design document
+1. Game design document - N/A
 
-2. Scope management
+2. Scope management - N/A
 
-3. Iteration
+3. Iteration - N/A
 
-4. Object-Oriented programming
+4. Object-Oriented programming - somewhat
 
-5. Model-View-Controller architecture
+5. Model-View-Controller architecture - N/A
 
 ## Complete!
 
